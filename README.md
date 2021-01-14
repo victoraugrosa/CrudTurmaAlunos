@@ -9,5 +9,5 @@
 - Para popular as tabelas, utilizar o comando "php artisan db:seed --class=TurmasTableSeeder" e posteriormente "php artisan db:seed --class=AlunosTableSeeder", para adicionar os registros, respectivamente, de turmas e alunos;
 - Para ver a aplicação sendo executada, utilizar o comando "php artisan serve" para levantar servidor localhost, na porta 8000, e acessar o crud do Projeto no navegador;
 - Pode ser acessado através da URL: http://localhost:8000/;
-
+- Projeto se encontra no github, na branch "BussolaCrud";
 #Qualquer dúvida estou a disposição.
